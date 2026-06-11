@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Pooja! 👋
 
-<!--
-**pooja-jharani/pooja-jharani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm currently learning Python & Data Science
+💻 Aspiring Data Scientist
+🚀 Sharing my coding journey on GitHub
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- 🐍 Python
+- 📊 Data Analysis
+- 📈 Pandas & Matplotlib
+- 🔵 Google Colab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- 🔗 LinkedIn: https://www.linkedin.com/in/pooja-jharani-636712367
