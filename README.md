@@ -2,7 +2,7 @@
 
 🎓 AI & Data Science Student
 🤖 Aspiring AI/ML Professional
-🐍 Python Developer | 📊 Data Science Enthusiast
+🐍 Python  | 📊 Data Science Enthusiast
 🚀 Learning and building through hands-on projects
 
 ## 🛠️ Skills
@@ -36,8 +36,6 @@
 
 ## 📫 Connect With Me
 
-🔗 [LinkedIn](https://www.linkedin.com/in/pooja-jharani-636712367)
-
----
+🔗 LinkedIn: https://www.linkedin.com/in/pooja-jharani-636712367
 
 ⭐ Thanks for visiting my profile!
