@@ -1,14 +1,43 @@
 # Hi there, I'm Pooja! 👋
 
-🌱 I'm currently learning Python & Data Science
-💻 Aspiring Data Scientist
-🚀 Sharing my coding journey on GitHub
+🎓 AI & Data Science Student
+🤖 Aspiring AI/ML Professional
+🐍 Python Developer | 📊 Data Science Enthusiast
+🚀 Learning and building through hands-on projects
 
 ## 🛠️ Skills
-- 🐍 Python
-- 📊 Data Analysis
-- 📈 Pandas & Matplotlib
-- 🔵 Google Colab
 
-## 📫 Connect with me
-- 🔗 LinkedIn: https://www.linkedin.com/in/pooja-jharani-636712367
+**Programming**
+
+* Python
+* SQL
+* C
+
+**Data Science & Machine Learning**
+
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-learn
+
+**Tools & Technologies**
+
+* Git & GitHub
+* Google Colab
+* Jupyter Notebook
+* Streamlit
+
+## 🌱 Currently Learning
+
+* Machine Learning
+* Data Science
+* Artificial Intelligence
+* Full-Stack Development
+
+## 📫 Connect With Me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/pooja-jharani-636712367)
+
+---
+
+⭐ Thanks for visiting my profile!
